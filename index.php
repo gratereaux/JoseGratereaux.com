@@ -418,8 +418,7 @@
          </div> <!-- twelve columns end -->
 
 
-         <!-- Modal Popup
-         --------------------------------------------------------------- -->
+         <!-- Modal Popup-->
 
          <div id="modal-01" class="popup-modal mfp-hide">
 
