@@ -49,6 +49,7 @@
             <li><a class="smoothscroll" href="#resume">Resume</a></li>
             <li><a class="smoothscroll" href="#portfolio">Works</a></li>
             <li><a class="smoothscroll" href="#testimonials">Multimedia</a></li>
+            <li><a class="smoothscroll" href="#coding">Coding</a></li>
             <li><a class="smoothscroll" href="#contact">Contact</a></li>
          </ul> <!-- end #nav -->
 
@@ -621,6 +622,42 @@
        </div>  <!-- text-container ends -->
 
    </section> <!-- Testimonials Section End-->
+
+<!-- CODING Section End-->
+<section id="coding">
+
+      <div class="row">
+
+         <div class="twelve columns collapsed">
+
+            <h1>Check my repo for some coding</h1>
+
+            <!-- portfolio-wrapper -->
+            <div id="portfolio-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
+
+               <div class="repo-links">
+
+
+                     <a href="https://github.com/gratereaux/api-phpdominicana.com" href="_self">PHP Dominicana Classes</a>
+                     <a href="https://github.com/gratereaux/practicing-laravel" href="_self">Laravel App</a>
+                     <a href="https://github.com/gratereaux/CodeIgniter-Installer" href="_self">Installer using Composer</a>
+                     <a href="https://github.com/gratereaux/Scan-Active-Hosts" href="_self">Python Host Scanner</a>
+                     <a href="https://github.com/gratereaux/NodeJS-Template-Project" href="_self">NodeJs Express Base Template</a>
+                     <a href="https://github.com/gratereaux/ScanServers" href="_self">Python Server Scanner</a>
+
+               </div> <!-- item end -->
+
+               
+
+            </div> <!-- portfolio-wrapper end -->
+
+         </div> <!-- twelve columns end -->
+
+
+      </div> <!-- row End -->
+
+   </section> <!-- CODES Section End-->
+
 
 
    <!-- Contact Section
